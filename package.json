@@ -1,0 +1,23 @@
+{
+  "name": "LyokoSass",
+  "version": "1.0.0",
+  "description": "Some tests I wrote for learning Sass and the awesome powers that it has",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SerenadeX/LyokoSass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerenadeX/LyokoSass/issues"
+  },
+  "homepage": "https://github.com/SerenadeX/LyokoSass",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-sass": "^1.3.3"
+  }
+}
