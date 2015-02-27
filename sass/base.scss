@@ -1,5 +1,5 @@
 // Base file.  From here we will import all the other files.
 
-body {
-  background: #eee;
-}
+@import 'mixins';
+@import 'variables';
+@import 'styles';
